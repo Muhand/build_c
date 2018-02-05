@@ -20,7 +20,7 @@ This script can take 5 arguments as follows
 
 ## Example
 
-*This is a sample folder structure*
+**This is a sample folder structure**
 
 `root directory |
                | build.sh
@@ -31,11 +31,11 @@ The sample terminal call
 
 `./build.sh -s ./src -b bin -i main -o output -y`
 
-*The output directory structure*
+**The output directory structure**
 
-`root directory |
-               | build.sh
-               | bin |
-               		 | output
-               | src |
-               		 | main.cpp`
+root directory | <br/>
+               | build.sh <br/>
+               | bin | <br/>
+               		 | output <br/>
+               | src | <br/>
+               		 | main.cpp <br/>
